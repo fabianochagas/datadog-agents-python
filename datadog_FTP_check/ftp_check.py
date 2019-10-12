@@ -38,7 +38,7 @@ app_log = logging.getLogger('ftp_logger')
 app_log.setLevel(logging.INFO)
 app_log.addHandler(my_handler)
 
-class HelloCheck(AgentCheck):
+class HelloCheck(AgentCheck): # it can be any name, actually
     def check(self, instance):
         try:
             # Read parameters from json file 
