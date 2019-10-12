@@ -1,0 +1,8 @@
+{
+   "wms_api_host":"192.168.11.130",
+   "wms_api_port":"8081",
+   "path":"/staging/api/ServiceCallUpdate",
+   "querystring_name": "ids",
+   "querystring_value": "190506-0053", 
+   "ucis_environment": "uat-bb"
+}

@@ -1,0 +1,35 @@
+{
+    "RequestId": "db6f4098-bde2-4952-aea0-c941eadd0aa5",
+    "Response": 10,
+    "ResponseMessage": null,
+    "SuccessDetails": null,
+    "Data": [
+        {
+            "ServiceCallID": "190506-0053",
+            "CallStartDate": "01-25-2018",
+            "CallCompletionDate": "01-01-1900",
+            "CallCompletionTime": "11:12:28",
+            "RemarksCallAndAppointment": "",
+            "CallStatus": "OPEN",
+            "NextAppointmentID": "0001",
+            "NextAppointmentStartDate": "05-06-2019",
+            "NextAppointmentTime": "00:00:00",
+            "LatestAppointmentCompletionDate": "01-01-1900",
+            "NextAppointmentTechnicianName": "",
+            "AppointmentStatus": "DEFAULT",
+            "ResolutionOfCall": "",
+            "Meters": [
+                {
+                    "MeterID": "48153157",
+                    "MeterSize": "",
+                    "DMA": "",
+                    "MeterType": "METER",
+                    "MeterReadingDate": "01-01-1900",
+                    "MeterInitialReading": ""
+                }
+            ],
+            "ProblemType": "CAP BACTE TEST",
+            "LastUpdated": "05-06-2019"
+        }
+    ]
+}

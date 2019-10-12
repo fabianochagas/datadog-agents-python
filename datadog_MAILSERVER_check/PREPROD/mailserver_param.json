@@ -1,0 +1,11 @@
+{
+   "smtp_mailserver_host": "SVR-EXCHMBX01.bwa.bb",
+   "smtp_mailserver_port": "587",
+   "smtp_mailserver_username": "do_not_reply@bwa.bb",
+   "smtp_mailserver_password": "BWAw@t3rB1l!z2",
+   "imap_mailserver_host": "mail.bwa.gov.bb",
+   "imap_mailserver_port": "993",
+   "imap_mailserver_username": "ucis@bwa.bb",
+   "imap_mailserver_password": "BWA@ucis$9903",
+   "ucis_environment": "tr-bb"
+}

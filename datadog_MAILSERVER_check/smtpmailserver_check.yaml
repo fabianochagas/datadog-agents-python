@@ -1,0 +1,7 @@
+# to be put on the /etc/dd-agent/conf.d folder
+# it will launch the python code containing the same name: mailservercheck.py in this case
+# FChagas - jira UC1-721
+init_config:
+
+instances:
+  - min_collection_interval: 300 # 5 minutes

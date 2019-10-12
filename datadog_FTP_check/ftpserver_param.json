@@ -1,0 +1,6 @@
+{
+    "ftpserver_host": "192.168.11.28",
+    "ftpserver_user": "UCIS2",
+    "ftpserver_passwd": "UCIS@246$BWA",
+    "ucis_environment": "uat-bb"
+ }
