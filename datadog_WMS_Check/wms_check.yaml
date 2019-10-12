@@ -1,6 +1,6 @@
 # to be put on the /etc/dd-agent/conf.d folder
 # it will launch the python code containing the same name: wms-check.py in this case
-# FChagas - jira UC1-668
+
 init_config:
 
 instances:

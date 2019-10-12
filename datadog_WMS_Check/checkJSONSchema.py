@@ -2,6 +2,7 @@ import json
 import sys
 from schema import Schema, And, Use, Optional, SchemaError
 
+#Insert here the template of the json schema to use for checking
 template_schema = Schema({
     "RequestId": And(Use(str)),
     "Response": And(Use(int)),

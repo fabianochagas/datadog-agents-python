@@ -37,7 +37,7 @@ app_log.addHandler(my_handler)
 import json
 import imaplib
 
-class HelloCheck(AgentCheck):
+class HelloCheck(AgentCheck):# it can be any name, actually
     def check(self, instance):
         try:
             # Read parameters from json file 
